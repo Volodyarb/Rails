@@ -2,8 +2,8 @@
 
 one:
   user_id: MyString
-  name: MyString
+  feedback: MyString
 
 two:
   user_id: MyString
-  name: MyString
+  feedback: MyString
