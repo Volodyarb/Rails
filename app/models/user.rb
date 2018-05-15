@@ -1,5 +1,6 @@
 class User < ApplicationRecord
-  has_many :item
-  has_many:booking
-  has_one :city
+  has_many :reviews
+  has_many :items
+  has_many:bookings
+  belongs_to :city
 end
